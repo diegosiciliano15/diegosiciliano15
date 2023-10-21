@@ -1,4 +1,9 @@
 ### Hi there 👋
+Mi nombre es Diego Siciliano, soy un apasionado de la tecnologia y sobre todo de la programacion, me desempeño en la carrera
+de Tecnico en Ingenieria de Software graduado de la Universidad Tecnologica de El Salvador, tengo conocimientos en varios 
+lenguajes de desarrollo tales como C#, SQL, PHP, etc.
+
+
 
 <!--
 **diegosiciliano15/diegosiciliano15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
